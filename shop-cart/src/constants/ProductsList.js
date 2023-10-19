@@ -1,0 +1,81 @@
+const productsList = [
+    {
+        imageUrl: 'https://uploads-ssl.webflow.com/63e857eaeaf853471d5335ff/63e8c4e563db5507951bbfbe_homepad-mini-min.png',
+        name: 'HomePod mini',
+        price: 239,
+        description: 'Table with air purifier, Stained veneer and black',
+        reviews: 121,
+    },
+    {
+        imageUrl: 'https://uploads-ssl.webflow.com/63e857eaeaf853471d5335ff/63e8c4e563db5537881bbfcf_instax%20mini%209-min.png',
+        name: 'Instax mini 9',
+        price: 239,
+        description: 'Table with air purifier, Stained veneer and black',
+        reviews: 121,
+    },
+    {
+        imageUrl: 'https://uploads-ssl.webflow.com/63e857eaeaf853471d5335ff/63e8c4e48b497e63cc46b800_base%20camp%20duffel%2002-min.png',
+        name: 'Base Camp Duffel M',
+        price: 239,
+        description: 'Table with air purifier, Stained veneer and black',
+        reviews: 121,
+    },  
+    {
+        imageUrl: 'https://uploads-ssl.webflow.com/63e857eaeaf853471d5335ff/63e8c4e54b76914b262f2448_headphone-min.png',
+        name: 'Gaming Headphone',
+        price: 239,
+        description: 'Table with air purifier, Stained veneer and black',
+        reviews: 121,
+    },  
+    {
+        imageUrl: 'https://uploads-ssl.webflow.com/63e857eaeaf853471d5335ff/63e8c4e74b769109fd2f245a_tomford%20watch-min.png',
+        name: 'Tomford Watch',
+        price: 239,
+        description: 'Table with air purifier, Stained veneer and black',
+        reviews: 121,
+    }, 
+    {
+        imageUrl: 'https://uploads-ssl.webflow.com/63e857eaeaf853471d5335ff/63e8c4e4aed3c6720e446aa1_airpod%20max-min.png',
+        name: 'AirPod Max',
+        price: 239,
+        description: 'Table with air purifier, Stained veneer and black',
+        reviews: 121,
+    }, 
+    {
+        imageUrl: 'https://uploads-ssl.webflow.com/63e857eaeaf853471d5335ff/63e8c4e61eb4ad4af6e75689_macbook%2013-min.png',
+        name: 'MacBook Pro 13',
+        price: 239,
+        description: 'Table with air purifier, Stained veneer and black',
+        reviews: 121,
+    },   
+    {
+        imageUrl: 'https://uploads-ssl.webflow.com/63e857eaeaf853471d5335ff/63e8c4e54b76914b262f2448_headphone-min.png',
+        name: 'Gaming Headphone',
+        price: 239,
+        description: 'Table with air purifier, Stained veneer and black',
+        reviews: 121,
+    },  
+    {
+        imageUrl: 'https://uploads-ssl.webflow.com/63e857eaeaf853471d5335ff/63e8c4e74b769109fd2f245a_tomford%20watch-min.png',
+        name: 'Tomford Watch',
+        price: 239,
+        description: 'Table with air purifier, Stained veneer and black',
+        reviews: 121,
+    }, 
+    {
+        imageUrl: 'https://uploads-ssl.webflow.com/63e857eaeaf853471d5335ff/63e8c4e4aed3c6720e446aa1_airpod%20max-min.png',
+        name: 'AirPod Max',
+        price: 239,
+        description: 'Table with air purifier, Stained veneer and black',
+        reviews: 121,
+    }, 
+    {
+        imageUrl: 'https://uploads-ssl.webflow.com/63e857eaeaf853471d5335ff/63e8c4e61eb4ad4af6e75689_macbook%2013-min.png',
+        name: 'MacBook Pro 13',
+        price: 239,
+        description: 'Table with air purifier, Stained veneer and black',
+        reviews: 121,
+    },      
+]
+
+export default productsList;
